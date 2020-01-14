@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+}
+.red {
+    color: red;
+}
+.blue {
+    color: blue;
+}
+.green {
+    color: green;
+}
+.large {
+    font-size: 24px;
+}
+.center {
+    text-align:center;
+}
+.fontchange {
+    font-family: "Courier New"
+}
+.fontfamilyparagraph {
+    font-family: "Courier New";
+    color: orange;
+    font-weight: bold;
+    font-size: 24px;
+}
+.styledFont {
+color: purple;
+}
+.border {
+    border-style: dashed;
+    border-width: 20px;
+    border-color: blue;
+}
